@@ -54,3 +54,5 @@ Finally, we invoke the sacred XOR to banish echoes and redundancies. Yet, our of
 As guardians of this sacred knowledge, we partake only in the essence we need and consign the excess to the cosmic winds.
 
 [Let us cherish this final touch of fine and pure randomness](https://github.com/AntonPerson/EntropyFountain/blob/main/random.dat)
+
+(_AI DISCLOSURE: This lore-friendly document was born by an artificial mind_)
